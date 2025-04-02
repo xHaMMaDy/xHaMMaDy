@@ -22,7 +22,7 @@ I love coding, solving problems, and automating tasks! My focus is on **bioinfor
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/xHaMMaDy)  
 
 Let's build something awesome together! 🚀
 
