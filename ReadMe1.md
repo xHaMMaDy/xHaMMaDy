@@ -30,7 +30,7 @@ Passionate about **bioinformatics, data science, and automation**. I enjoy solvi
 🔹 [**GitHub Profile Enhancer**](https://github.com/yourusername/Profile-Enhancer) - A simple automation script for managing and improving GitHub profiles.
 
 ## 🚀 Latest Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xHaMMaDy&theme=radical)
 
 ## 🌍 Connect with Me
 
