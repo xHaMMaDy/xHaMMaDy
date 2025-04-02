@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Ibrahim! 👋
 
 🚀 **Bioinformatics & Automation Developer** | **Python & R Enthusiast**
