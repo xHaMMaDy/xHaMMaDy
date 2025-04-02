@@ -12,7 +12,6 @@ I love coding, solving problems, and automating tasks! My focus is on **bioinfor
 - **Workflow Automation & Web Scraping**
 
 ## 📌 Featured Projects
-🔹 [**Alzheimer's Disease scRNA-seq Analysis**](https://github.com/xHaMMaDy/Alzheimers-scRNAseq) - Single-cell RNA sequencing analysis using Seurat & SingleR.  
 🔹 [**Web Scraper Suite**](https://github.com/xHaMMaDy/Web-Scrapers) - A collection of web scraping scripts for various platforms.  
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
