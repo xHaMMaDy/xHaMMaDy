@@ -13,7 +13,7 @@ Passionate about **bioinformatics, data science, and automation**. I enjoy solvi
 ![Seurat](https://img.shields.io/badge/-Seurat-4EA94B?style=flat)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Scrapy](https://img.shields.io/badge/-Scrapy-88A2B9?style=flat&logo=scrapy&logoColor=white) [Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-88A2B9?style=flat&logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ## 🏆 GitHub Stats
 
