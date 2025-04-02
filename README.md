@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**xHaMMaDy/xHaMMaDy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ibrahim! 👋
 
-Here are some ideas to get you started:
+🚀 **Bioinformatics & Automation Developer** | **Python & R Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love coding, solving problems, and automating tasks! My focus is on **bioinformatics, data science, and web scraping**. I'm always learning new things and contributing to open-source projects.
+
+## 🔧 Technologies & Skills
+- **Languages:** Python 🐍 | R 📊 | Bash 🖥️
+- **Frameworks & Tools:** Seurat | SingleR | clusterProfiler | Scrapy | Selenium | Pandas | NumPy
+- **Version Control:** Git & GitHub 🚀
+- **Data Visualization:** ggplot2 | Matplotlib | Plotly
+- **Workflow Automation & Web Scraping**
+
+## 📌 Featured Projects
+🔹 [**Alzheimer's Disease scRNA-seq Analysis**](https://github.com/xHaMMaDy/Alzheimers-scRNAseq) - Single-cell RNA sequencing analysis using Seurat & SingleR.  
+🔹 [**Web Scraper Suite**](https://github.com/xHaMMaDy/Web-Scrapers) - A collection of web scraping scripts for various platforms.  
+🔹 [**GitHub Profile Enhancer**](https://github.com/xHaMMaDy/Profile-Enhancer) - A simple automation script for managing and improving GitHub profiles.
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)  
+
+Let's build something awesome together! 🚀
+
