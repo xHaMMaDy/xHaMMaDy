@@ -1,4 +1,4 @@
-# Hi there, I'm Ibrahim! 👋
+# Hi there, I'm Ibrahim (HaMMaDy)! 👋
 
 🚀 **Bioinformatics & Automation Developer** | **Python & R Enthusiast**
 
