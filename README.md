@@ -14,8 +14,8 @@ I love coding, solving problems, and automating tasks! My focus is on **bioinfor
 ## 📌 Featured Projects
 🔹 [**TokGrabber**](https://github.com/xHaMMaDy/TokGrabber) - The Ultimate TikTok Media Downloader.
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHaMMaDy&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHaMMaDy&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahim-hammad-722966168)  
