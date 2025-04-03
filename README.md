@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ibrahim%20(HaMMaDy)&fontSize=40&fontAlign=50&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ibrahim%20Hammad%20(HaMMaDy)&fontSize=40&fontAlign=50&fontColor=fff)
 
 # Hi there, I'm Ibrahim Hammad (HaMMaDy)! 👋
 
