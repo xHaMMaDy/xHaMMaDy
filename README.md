@@ -20,7 +20,8 @@ I love coding, solving problems, and automating tasks! My focus is on **bioinfor
 ## 📌 Featured Projects
 🔹 [**TokGrabber**](https://github.com/xHaMMaDy/TokGrabber) - The Ultimate TikTok Media Downloader.   
 🔹 [**NamiX**](https://github.com/xHaMMaDy/NamiX) - A sleek and customizable Arabic username generator with a modern PySide6 UI.  
-
+🔹 [**Cryptique**](https://github.com/xHaMMaDy/Cryptique) – An elegant and educational Caesar cipher GUI built for code lovers and crypto-curious minds.
+  
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHaMMaDy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHaMMaDy&layout=compact&theme=radical)
