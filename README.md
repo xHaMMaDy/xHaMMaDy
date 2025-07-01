@@ -8,27 +8,37 @@ I love coding, solving problems, and automating tasks! My focus is on **bioinfor
 
 ## 🔧 Technologies & Skills
 
-- **Languages:** Python 🐍 | R 📊 | Bash 🖥️
-- **Frameworks & Tools:** Seurat | SingleR | clusterProfiler | Scrapy | Selenium | Pandas | NumPy
-- **Version Control:** Git & GitHub 🚀
-- **Data Visualization:** ggplot2 | Matplotlib | Plotly
-- **Workflow Automation & Web Scraping**
-  
+- **Languages**: Python 🐍 | R 📊 | Bash 🖥️
+- **Bioinformatics**: Seurat | SingleR | CellChat | MiloR | clusterProfiler
+- **Data Science & ML**: Pandas | NumPy | scikit-learn | imbalanced-learn | RDKit
+- **Web Scraping & Automation**: Scrapy | Selenium | Flask
+- **Data Visualization**: ggplot2 | Matplotlib | Plotly
+- **Version Control**: Git & GitHub 🚀
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-Data%20Science-blue?style=flat&logo=r)
-![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=flat&logo=gnu-bash)
+![Flask](https://img.shields.io/badge/Flask-Web%20API-black?style=flat&logo=flask)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=flat&logo=git)
+
 ## 📌 Featured Projects
-🔹 [**TokGrabber**](https://github.com/xHaMMaDy/TokGrabber) - The Ultimate TikTok Media Downloader.   
-🔹 [**NamiX**](https://github.com/xHaMMaDy/NamiX) - A sleek and customizable Arabic username generator with a modern PySide6 UI.  
-🔹 [**Cryptique**](https://github.com/xHaMMaDy/Cryptique) – An elegant and educational Caesar cipher GUI built for code lovers and crypto-curious minds.
-  
+
+- [**AD-scRNA2QSAR**](https://github.com/xhammady/AD-scRNA2QSAR)  
+  A computational pipeline for Alzheimer's Disease research, integrating scRNA-seq analysis (Seurat, CellChat, MiloR) with QSAR modeling (RDKit, scikit-learn) and a Flask-based web API.  
+- [**TokGrabber**](https://github.com/xHaMMaDy/TokGrabber)  
+  A Python-based TikTok media downloader using Scrapy and Selenium for efficient scraping.  
+- [**NamiX**](https://github.com/xHaMMaDy/NamiX)  
+  A customizable Arabic username generator with a modern PySide6 GUI.  
+- [**Cryptique**](https://github.com/xHaMMaDy/Cryptique)  
+  An educational Caesar cipher tool with an elegant GUI for cryptography enthusiasts.  
+
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHaMMaDy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHaMMaDy&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHaMMaDy&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHaMMaDy&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahim-hammad-722966168)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/xHaMMaDy)  
+[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:i.abdelkarim@nu.edu.eg)
 
 Let's build something awesome together! 🚀
 
